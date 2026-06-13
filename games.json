@@ -12,27 +12,17 @@
     },
     {
       "title": "Cyberpunk 2077",
-      "image": "https://example.com/images/cyberpunk2077.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/pt/f/f7/Cyberpunk_2077_capa.png",
       "torrent": "magnet:?xt=urn:btih:CYBERPUNK_HASH"
     },
     {
       "title": "The Witcher 3: Wild Hunt",
-      "image": "https://example.com/images/witcher3.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/pt/0/06/TW3_Wild_Hunt.png",
       "torrent": "magnet:?xt=urn:btih:WITCHER3_HASH"
     },
     {
-      "title": "Minecraft",
-      "image": "https://example.com/images/minecraft.jpg",
-      "torrent": "magnet:?xt=urn:btih:MINECRAFT_HASH"
-    },
-    {
-      "title": "Terraria",
-      "image": "https://example.com/images/terraria.jpg",
-      "torrent": "magnet:?xt=urn:btih:TERRARIA_HASH"
-    },
-    {
       "title": "Elden Ring",
-      "image": "https://example.com/images/eldenring.jpg",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGQxMjYyOTUtNjYyMC00NzdmLWI4YmYtMDhiODU3Njc5ZDJkXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
       "torrent": "magnet:?xt=urn:btih:ELDENRING_HASH"
     },
     {
