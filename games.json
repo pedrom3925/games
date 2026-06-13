@@ -65,5 +65,106 @@
       "image": "https://upload.wikimedia.org/wikipedia/pt/3/32/Kingdom_Come_Deliverance_II.jpg",
       "torrent": "magnet:?xt=urn:btih:KCD2_HASH"
     }
+    ,
+{
+  "title": "Minecraft",
+  "image": "https://upload.wikimedia.org/wikipedia/en/5/51/Minecraft_cover.png",
+  "torrent": "magnet:?xt=urn:btih:MINECRAFT_HASH"
+},
+{
+  "title": "Terraria",
+  "image": "https://upload.wikimedia.org/wikipedia/en/1/1e/Terraria_cover.png",
+  "torrent": "magnet:?xt=urn:btih:TERRARIA_HASH"
+},
+{
+  "title": "Stardew Valley",
+  "image": "https://upload.wikimedia.org/wikipedia/en/f/fd/Logo_of_Stardew_Valley.png",
+  "torrent": "magnet:?xt=urn:btih:STARDEW_HASH"
+},
+{
+  "title": "Palworld",
+  "image": "https://upload.wikimedia.org/wikipedia/en/9/9b/Palworld_key_art.jpg",
+  "torrent": "magnet:?xt=urn:btih:PALWORLD_HASH"
+},
+{
+  "title": "Helldivers 2",
+  "image": "https://upload.wikimedia.org/wikipedia/en/8/87/Helldivers_2_cover_art.jpg",
+  "torrent": "magnet:?xt=urn:btih:HELLDIVERS2_HASH"
+},
+{
+  "title": "Ghost of Tsushima",
+  "image": "https://upload.wikimedia.org/wikipedia/en/b/b6/Ghost_of_Tsushima.jpg",
+  "torrent": "magnet:?xt=urn:btih:GHOST_HASH"
+},
+{
+  "title": "The Last of Us Part I",
+  "image": "https://upload.wikimedia.org/wikipedia/en/8/86/The_Last_of_Us_Part_I_cover.jpg",
+  "torrent": "magnet:?xt=urn:btih:TLOU_HASH"
+},
+{
+  "title": "Starfield",
+  "image": "https://upload.wikimedia.org/wikipedia/en/6/64/Starfield_box_art.jpg",
+  "torrent": "magnet:?xt=urn:btih:STARFIELD_HASH"
+},
+{
+  "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+  "image": "https://upload.wikimedia.org/wikipedia/en/e/e5/STALKER_2_cover_art.jpg",
+  "torrent": "magnet:?xt=urn:btih:STALKER2_HASH"
+},
+{
+  "title": "Dying Light 2",
+  "image": "https://upload.wikimedia.org/wikipedia/en/2/2f/Dying_Light_2_cover_art.jpg",
+  "torrent": "magnet:?xt=urn:btih:DL2_HASH"
+},
+{
+  "title": "Rust",
+  "image": "https://upload.wikimedia.org/wikipedia/en/d/d0/Rust_cover.jpg",
+  "torrent": "magnet:?xt=urn:btih:RUST_HASH"
+},
+{
+  "title": "ARK: Survival Ascended",
+  "image": "https://upload.wikimedia.org/wikipedia/en/8/85/ARK_Survival_Ascended_cover.jpg",
+  "torrent": "magnet:?xt=urn:btih:ARK_HASH"
+},
+{
+  "title": "No Man's Sky",
+  "image": "https://upload.wikimedia.org/wikipedia/en/2/26/No_Man%27s_Sky.jpg",
+  "torrent": "magnet:?xt=urn:btih:NMS_HASH"
+},
+{
+  "title": "Euro Truck Simulator 2",
+  "image": "https://upload.wikimedia.org/wikipedia/en/0/0e/Euro_Truck_Simulator_2.jpg",
+  "torrent": "magnet:?xt=urn:btih:ETS2_HASH"
+},
+{
+  "title": "American Truck Simulator",
+  "image": "https://upload.wikimedia.org/wikipedia/en/3/35/American_Truck_Simulator.jpg",
+  "torrent": "magnet:?xt=urn:btih:ATS_HASH"
+},
+{
+  "title": "Cities: Skylines II",
+  "image": "https://upload.wikimedia.org/wikipedia/en/f/f8/Cities_Skylines_II_cover_art.jpg",
+  "torrent": "magnet:?xt=urn:btih:CS2CITY_HASH"
+},
+{
+  "title": "Farming Simulator 25",
+  "image": "https://upload.wikimedia.org/wikipedia/en/6/62/Farming_Simulator_25_cover.jpg",
+  "torrent": "magnet:?xt=urn:btih:FS25_HASH"
+},
+{
+  "title": "Microsoft Flight Simulator 2024",
+  "image": "https://upload.wikimedia.org/wikipedia/en/8/87/Microsoft_Flight_Simulator_2024.jpg",
+  "torrent": "magnet:?xt=urn:btih:MFS2024_HASH"
+},
+{
+  "title": "Assetto Corsa EVO",
+  "image": "https://upload.wikimedia.org/wikipedia/en/5/55/Assetto_Corsa_EVO_cover.jpg",
+  "torrent": "magnet:?xt=urn:btih:ACEVO_HASH"
+},
+{
+  "title": "BeamNG.drive",
+  "image": "https://upload.wikimedia.org/wikipedia/en/0/0f/BeamNG.drive_cover.jpg",
+  "torrent": "magnet:?xt=urn:btih:BEAMNG_HASH"
+}
   ]
 }
