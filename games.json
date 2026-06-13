@@ -1,194 +1,85 @@
 {
-  "items": [
-    {
-      "id": "gta5",
-      "title": "Grand Theft Auto V",
-      "description": "Open-world de ação da Rockstar Games.",
-      "year": 2015,
-      "genre": ["Action", "Adventure"],
-      "platforms": ["Windows"],
-      "image": "https://upload.wikimedia.org/wikipedia/pt/8/80/Grand_Theft_Auto_V_capa.png",
-      "sources": []
-    },
-    {
-      "id": "rdr2",
-      "title": "Red Dead Redemption 2",
-      "description": "Aventura no Velho Oeste da Rockstar Games.",
-      "year": 2018,
-      "genre": ["Action", "Adventure"],
-      "platforms": ["Windows"],
-      "image": "https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png",
-      "sources": []
-    },
-    {
-      "id": "cyberpunk2077",
-      "title": "Cyberpunk 2077",
-      "description": "RPG futurista em Night City.",
-      "year": 2020,
-      "genre": ["RPG", "Action"],
-      "platforms": ["Windows"],
-      "image": "https://upload.wikimedia.org/wikipedia/pt/f/f7/Cyberpunk_2077_capa.png",
-      "sources": []
-    },
-    {
-      "id": "witcher3",
-      "title": "The Witcher 3: Wild Hunt",
-      "description": "RPG de fantasia protagonizado por Geralt.",
-      "year": 2015,
-      "genre": ["RPG"],
-      "platforms": ["Windows"],
-      "image": "https://upload.wikimedia.org/wikipedia/pt/0/06/TW3_Wild_Hunt.png",
-      "sources": []
-    },
-    {
-      "id": "eldenring",
-      "title": "Elden Ring",
-      "description": "RPG de ação da FromSoftware.",
-      "year": 2022,
-      "genre": ["RPG", "Soulslike"],
-      "platforms": ["Windows"],
-      "image": "https://m.media-amazon.com/images/M/MV5BZGQxMjYyOTUtNjYyMC00NzdmLWI4YmYtMDhiODU3Njc5ZDJkXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
-      "sources": []
-    },
-    {
-      "id": "bg3",
-      "title": "Baldur's Gate 3",
-      "description": "RPG baseado em Dungeons & Dragons.",
-      "year": 2023,
-      "genre": ["RPG"],
-      "platforms": ["Windows"],
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202302/2321/ba706e54d68d10a0eb6ab7c36cdad9178c58b7fb7bb03d28.png",
-      "sources": []
-    },
-    {
-      "id": "hogwartslegacy",
-      "title": "Hogwarts Legacy",
-      "description": "Aventura no universo de Harry Potter.",
-      "year": 2023,
-      "genre": ["RPG", "Adventure"],
-      "platforms": ["Windows"],
-      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2716/f6b1e4512ee6061913f7d604da8f5f39566be56ca32a68ee.png",
-      "sources": []
-    },
-    {
-      "id": "forzahorizon5",
-      "title": "Forza Horizon 5",
-      "description": "Jogo de corridas em mundo aberto.",
-      "year": 2021,
-      "genre": ["Racing"],
-      "platforms": ["Windows"],
-      "image": "https://www.jogodigital.com/wp-content/uploads/2025/04/forza-horizon-5-banner-mobilejpg.jpg",
-      "sources": []
-    },
-    {
-      "id": "gowragnarok",
-      "title": "God of War Ragnarök",
-      "description": "Aventura épica de Kratos e Atreus.",
-      "year": 2022,
-      "genre": ["Action"],
-      "platforms": ["Windows"],
-      "image": "https://upload.wikimedia.org/wikipedia/pt/thumb/a/a5/God_of_War_Ragnar%C3%B6k_capa.jpg/330px-God_of_War_Ragnar%C3%B6k_capa.jpg",
-      "sources": []
-    },
-    {
-      "id": "wukong",
-      "title": "Black Myth: Wukong",
-      "description": "Action RPG inspirado na mitologia chinesa.",
-      "year": 2024,
-      "genre": ["Action", "RPG"],
-      "platforms": ["Windows"],
-      "image": "https://upload.wikimedia.org/wikipedia/en/a/a6/Black_Myth_Wukong_cover_art.jpg",
-      "sources": []
-    },
-    {
-      "id": "minecraft",
-      "title": "Minecraft",
-      "description": "Sandbox de construção e sobrevivência.",
-      "year": 2011,
-      "genre": ["Sandbox"],
-      "platforms": ["Windows"],
-      "image": "https://upload.wikimedia.org/wikipedia/en/5/51/Minecraft_cover.png",
-      "sources": []
-    },
-    {
-      "id": "terraria",
-      "title": "Terraria",
-      "description": "Aventura 2D com crafting e exploração.",
-      "year": 2011,
-      "genre": ["Sandbox", "Adventure"],
-      "platforms": ["Windows"],
-      "image": "https://upload.wikimedia.org/wikipedia/en/1/1e/Terraria_cover.png",
-      "sources": []
-    },
-    {
-      "id": "stardewvalley",
-      "title": "Stardew Valley",
-      "description": "Simulador de quinta e vida rural.",
-      "year": 2016,
-      "genre": ["Simulation"],
-      "platforms": ["Windows"],
-      "image": "https://upload.wikimedia.org/wikipedia/en/f/fd/Logo_of_Stardew_Valley.png",
-      "sources": []
-    },
-    {
-      "id": "palworld",
-      "title": "Palworld",
-      "description": "Sobrevivência e criaturas em mundo aberto.",
-      "year": 2024,
-      "genre": ["Survival"],
-      "platforms": ["Windows"],
-      "image": "https://upload.wikimedia.org/wikipedia/en/9/9b/Palworld_key_art.jpg",
-      "sources": []
-    },
-    {
-      "id": "helldivers2",
-      "title": "Helldivers 2",
-      "description": "Co-op shooter contra ameaças alienígenas.",
-      "year": 2024,
-      "genre": ["Shooter"],
-      "platforms": ["Windows"],
-      "image": "https://upload.wikimedia.org/wikipedia/en/8/87/Helldivers_2_cover_art.jpg",
-      "sources": []
-    },
-    {
-      "id": "ghostoftsushima",
-      "title": "Ghost of Tsushima",
-      "description": "Aventura samurai em mundo aberto.",
-      "year": 2020,
-      "genre": ["Action", "Adventure"],
-      "platforms": ["Windows"],
-      "image": "https://upload.wikimedia.org/wikipedia/en/b/b6/Ghost_of_Tsushima.jpg",
-      "sources": []
-    },
-    {
-      "id": "starfield",
-      "title": "Starfield",
-      "description": "RPG espacial da Bethesda.",
-      "year": 2023,
-      "genre": ["RPG", "Sci-Fi"],
-      "platforms": ["Windows"],
-      "image": "https://upload.wikimedia.org/wikipedia/en/6/64/Starfield_box_art.jpg",
-      "sources": []
-    },
-    {
-      "id": "rust",
-      "title": "Rust",
-      "description": "Jogo de sobrevivência multiplayer.",
-      "year": 2018,
-      "genre": ["Survival"],
-      "platforms": ["Windows"],
-      "image": "https://upload.wikimedia.org/wikipedia/en/d/d0/Rust_cover.jpg",
-      "sources": []
-    },
-    {
-      "id": "beamng",
-      "title": "BeamNG.drive",
-      "description": "Simulador avançado de física automóvel.",
-      "year": 2015,
-      "genre": ["Simulation", "Driving"],
-      "platforms": ["Windows"],
-      "image": "https://upload.wikimedia.org/wikipedia/en/0/0f/BeamNG.drive_cover.jpg",
-      "sources": []
-    }
-  ]
+  "id": "gta5",
+  "title": "Grand Theft Auto V",
+  "image": "https://upload.wikimedia.org/wikipedia/pt/8/80/Grand_Theft_Auto_V_capa.png"
+},
+{
+  "id": "cyberpunk2077",
+  "title": "Cyberpunk 2077",
+  "image": "https://upload.wikimedia.org/wikipedia/pt/f/f7/Cyberpunk_2077_capa.png"
+},
+{
+  "id": "witcher3",
+  "title": "The Witcher 3: Wild Hunt",
+  "image": "https://upload.wikimedia.org/wikipedia/pt/0/06/TW3_Wild_Hunt.png"
+},
+{
+  "id": "eldenring",
+  "title": "Elden Ring",
+  "image": "https://upload.wikimedia.org/wikipedia/en/b/b9/Elden_Ring_Box_art.jpg"
+},
+{
+  "id": "bg3",
+  "title": "Baldur's Gate 3",
+  "image": "https://upload.wikimedia.org/wikipedia/en/1/12/Baldur%27s_Gate_3_cover_art.jpg"
+},
+{
+  "id": "hogwartslegacy",
+  "title": "Hogwarts Legacy",
+  "image": "https://upload.wikimedia.org/wikipedia/en/3/3e/Hogwarts_Legacy_cover.jpg"
+},
+{
+  "id": "gowragnarok",
+  "title": "God of War Ragnarök",
+  "image": "https://upload.wikimedia.org/wikipedia/pt/a/a5/God_of_War_Ragnar%C3%B6k_capa.jpg"
+},
+{
+  "id": "wukong",
+  "title": "Black Myth: Wukong",
+  "image": "https://upload.wikimedia.org/wikipedia/en/a/a6/Black_Myth_Wukong_cover_art.jpg"
+},
+{
+  "id": "minecraft",
+  "title": "Minecraft",
+  "image": "https://upload.wikimedia.org/wikipedia/en/5/51/Minecraft_cover.png"
+},
+{
+  "id": "terraria",
+  "title": "Terraria",
+  "image": "https://upload.wikimedia.org/wikipedia/en/1/1e/Terraria_cover.png"
+},
+{
+  "id": "stardewvalley",
+  "title": "Stardew Valley",
+  "image": "https://upload.wikimedia.org/wikipedia/en/f/fd/Logo_of_Stardew_Valley.png"
+},
+{
+  "id": "palworld",
+  "title": "Palworld",
+  "image": "https://upload.wikimedia.org/wikipedia/en/9/9b/Palworld_key_art.jpg"
+},
+{
+  "id": "helldivers2",
+  "title": "Helldivers 2",
+  "image": "https://upload.wikimedia.org/wikipedia/en/8/87/Helldivers_2_cover_art.jpg"
+},
+{
+  "id": "ghostoftsushima",
+  "title": "Ghost of Tsushima",
+  "image": "https://upload.wikimedia.org/wikipedia/en/b/b6/Ghost_of_Tsushima.jpg"
+},
+{
+  "id": "starfield",
+  "title": "Starfield",
+  "image": "https://upload.wikimedia.org/wikipedia/en/6/64/Starfield_box_art.jpg"
+},
+{
+  "id": "rust",
+  "title": "Rust",
+  "image": "https://upload.wikimedia.org/wikipedia/en/d/d0/Rust_cover.jpg"
+},
+{
+  "id": "beamng",
+  "title": "BeamNG.drive",
+  "image": "https://upload.wikimedia.org/wikipedia/en/0/0f/BeamNG.drive_cover.jpg"
 }
