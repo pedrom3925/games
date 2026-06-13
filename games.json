@@ -1,85 +1,9 @@
 {
-  "id": "gta5",
-  "title": "Grand Theft Auto V",
-  "image": "https://upload.wikimedia.org/wikipedia/pt/8/80/Grand_Theft_Auto_V_capa.png"
-},
-{
-  "id": "cyberpunk2077",
-  "title": "Cyberpunk 2077",
-  "image": "https://upload.wikimedia.org/wikipedia/pt/f/f7/Cyberpunk_2077_capa.png"
-},
-{
-  "id": "witcher3",
-  "title": "The Witcher 3: Wild Hunt",
-  "image": "https://upload.wikimedia.org/wikipedia/pt/0/06/TW3_Wild_Hunt.png"
-},
-{
-  "id": "eldenring",
-  "title": "Elden Ring",
-  "image": "https://upload.wikimedia.org/wikipedia/en/b/b9/Elden_Ring_Box_art.jpg"
-},
-{
-  "id": "bg3",
-  "title": "Baldur's Gate 3",
-  "image": "https://upload.wikimedia.org/wikipedia/en/1/12/Baldur%27s_Gate_3_cover_art.jpg"
-},
-{
-  "id": "hogwartslegacy",
-  "title": "Hogwarts Legacy",
-  "image": "https://upload.wikimedia.org/wikipedia/en/3/3e/Hogwarts_Legacy_cover.jpg"
-},
-{
-  "id": "gowragnarok",
-  "title": "God of War Ragnarök",
-  "image": "https://upload.wikimedia.org/wikipedia/pt/a/a5/God_of_War_Ragnar%C3%B6k_capa.jpg"
-},
-{
-  "id": "wukong",
-  "title": "Black Myth: Wukong",
-  "image": "https://upload.wikimedia.org/wikipedia/en/a/a6/Black_Myth_Wukong_cover_art.jpg"
-},
-{
-  "id": "minecraft",
-  "title": "Minecraft",
-  "image": "https://upload.wikimedia.org/wikipedia/en/5/51/Minecraft_cover.png"
-},
-{
-  "id": "terraria",
-  "title": "Terraria",
-  "image": "https://upload.wikimedia.org/wikipedia/en/1/1e/Terraria_cover.png"
-},
-{
-  "id": "stardewvalley",
-  "title": "Stardew Valley",
-  "image": "https://upload.wikimedia.org/wikipedia/en/f/fd/Logo_of_Stardew_Valley.png"
-},
-{
-  "id": "palworld",
-  "title": "Palworld",
-  "image": "https://upload.wikimedia.org/wikipedia/en/9/9b/Palworld_key_art.jpg"
-},
-{
-  "id": "helldivers2",
-  "title": "Helldivers 2",
-  "image": "https://upload.wikimedia.org/wikipedia/en/8/87/Helldivers_2_cover_art.jpg"
-},
-{
-  "id": "ghostoftsushima",
-  "title": "Ghost of Tsushima",
-  "image": "https://upload.wikimedia.org/wikipedia/en/b/b6/Ghost_of_Tsushima.jpg"
-},
-{
-  "id": "starfield",
-  "title": "Starfield",
-  "image": "https://upload.wikimedia.org/wikipedia/en/6/64/Starfield_box_art.jpg"
-},
-{
-  "id": "rust",
-  "title": "Rust",
-  "image": "https://upload.wikimedia.org/wikipedia/en/d/d0/Rust_cover.jpg"
-},
-{
-  "id": "beamng",
-  "title": "BeamNG.drive",
-  "image": "https://upload.wikimedia.org/wikipedia/en/0/0f/BeamNG.drive_cover.jpg"
+  "items": [
+    {
+      "title": "GTA V",
+      "image": "https://...",
+      "torrent": "magnet:..."
+    }
+  ]
 }
