@@ -2,12 +2,12 @@
   "items": [
     {
       "title": "Grand Theft Auto V",
-      "image": "https://example.com/images/gta5.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/pt/8/80/Grand_Theft_Auto_V_capa.png",
       "torrent": "magnet:?xt=urn:btih:GTA5_HASH"
     },
     {
       "title": "Red Dead Redemption 2",
-      "image": "https://example.com/images/rdr2.jpg",
+      "image": "https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png",
       "torrent": "magnet:?xt=urn:btih:RDR2_HASH"
     },
     {
