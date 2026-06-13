@@ -1,9 +1,79 @@
 {
   "items": [
     {
-      "title": "GTA V",
-      "image": "https://...",
-      "torrent": "magnet:..."
+      "title": "Grand Theft Auto V",
+      "image": "https://example.com/images/gta5.jpg",
+      "torrent": "magnet:?xt=urn:btih:GTA5_HASH"
+    },
+    {
+      "title": "Red Dead Redemption 2",
+      "image": "https://example.com/images/rdr2.jpg",
+      "torrent": "magnet:?xt=urn:btih:RDR2_HASH"
+    },
+    {
+      "title": "Cyberpunk 2077",
+      "image": "https://example.com/images/cyberpunk2077.jpg",
+      "torrent": "magnet:?xt=urn:btih:CYBERPUNK_HASH"
+    },
+    {
+      "title": "The Witcher 3: Wild Hunt",
+      "image": "https://example.com/images/witcher3.jpg",
+      "torrent": "magnet:?xt=urn:btih:WITCHER3_HASH"
+    },
+    {
+      "title": "Minecraft",
+      "image": "https://example.com/images/minecraft.jpg",
+      "torrent": "magnet:?xt=urn:btih:MINECRAFT_HASH"
+    },
+    {
+      "title": "Terraria",
+      "image": "https://example.com/images/terraria.jpg",
+      "torrent": "magnet:?xt=urn:btih:TERRARIA_HASH"
+    },
+    {
+      "title": "Elden Ring",
+      "image": "https://example.com/images/eldenring.jpg",
+      "torrent": "magnet:?xt=urn:btih:ELDENRING_HASH"
+    },
+    {
+      "title": "Baldur's Gate 3",
+      "image": "https://example.com/images/bg3.jpg",
+      "torrent": "magnet:?xt=urn:btih:BG3_HASH"
+    },
+    {
+      "title": "Hogwarts Legacy",
+      "image": "https://example.com/images/hogwartslegacy.jpg",
+      "torrent": "magnet:?xt=urn:btih:HOGWARTS_HASH"
+    },
+    {
+      "title": "Forza Horizon 5",
+      "image": "https://example.com/images/forzahorizon5.jpg",
+      "torrent": "magnet:?xt=urn:btih:FORZA5_HASH"
+    },
+    {
+      "title": "God of War Ragnarök",
+      "image": "https://example.com/images/gowragnarok.jpg",
+      "torrent": "magnet:?xt=urn:btih:GOW_HASH"
+    },
+    {
+      "title": "Black Myth: Wukong",
+      "image": "https://example.com/images/wukong.jpg",
+      "torrent": "magnet:?xt=urn:btih:WUKONG_HASH"
+    },
+    {
+      "title": "Call of Duty: Black Ops 6",
+      "image": "https://example.com/images/bo6.jpg",
+      "torrent": "magnet:?xt=urn:btih:BO6_HASH"
+    },
+    {
+      "title": "EA Sports FC 26",
+      "image": "https://example.com/images/fc26.jpg",
+      "torrent": "magnet:?xt=urn:btih:FC26_HASH"
+    },
+    {
+      "title": "Kingdom Come: Deliverance II",
+      "image": "https://example.com/images/kcd2.jpg",
+      "torrent": "magnet:?xt=urn:btih:KCD2_HASH"
     }
   ]
 }
