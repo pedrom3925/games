@@ -27,42 +27,42 @@
     },
     {
       "title": "Baldur's Gate 3",
-      "image": "https://example.com/images/bg3.jpg",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202302/2321/ba706e54d68d10a0eb6ab7c36cdad9178c58b7fb7bb03d28.png",
       "torrent": "magnet:?xt=urn:btih:BG3_HASH"
     },
     {
       "title": "Hogwarts Legacy",
-      "image": "https://example.com/images/hogwartslegacy.jpg",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202503/2716/f6b1e4512ee6061913f7d604da8f5f39566be56ca32a68ee.png",
       "torrent": "magnet:?xt=urn:btih:HOGWARTS_HASH"
     },
     {
       "title": "Forza Horizon 5",
-      "image": "https://example.com/images/forzahorizon5.jpg",
+      "image": "https://www.jogodigital.com/wp-content/uploads/2025/04/forza-horizon-5-banner-mobilejpg.jpg",
       "torrent": "magnet:?xt=urn:btih:FORZA5_HASH"
     },
     {
       "title": "God of War Ragnarök",
-      "image": "https://example.com/images/gowragnarok.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/pt/thumb/a/a5/God_of_War_Ragnar%C3%B6k_capa.jpg/330px-God_of_War_Ragnar%C3%B6k_capa.jpg",
       "torrent": "magnet:?xt=urn:btih:GOW_HASH"
     },
     {
       "title": "Black Myth: Wukong",
-      "image": "https://example.com/images/wukong.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/en/a/a6/Black_Myth_Wukong_cover_art.jpg",
       "torrent": "magnet:?xt=urn:btih:WUKONG_HASH"
     },
     {
       "title": "Call of Duty: Black Ops 6",
-      "image": "https://example.com/images/bo6.jpg",
+      "image": "https://cd-keys.online/633-large_default/call-of-duty-black-ops-6-reward-4-operator-skin-dlc-pc-ps4-ps5-xbox-one-series-xs-cd-key.jpg",
       "torrent": "magnet:?xt=urn:btih:BO6_HASH"
     },
     {
       "title": "EA Sports FC 26",
-      "image": "https://example.com/images/fc26.jpg",
+      "image": "https://image.api.playstation.com/vulcan/ap/rnd/202507/2511/824bd2ea826d3ac352d516c289229008ab687c655dd39450.png",
       "torrent": "magnet:?xt=urn:btih:FC26_HASH"
     },
     {
       "title": "Kingdom Come: Deliverance II",
-      "image": "https://example.com/images/kcd2.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/pt/3/32/Kingdom_Come_Deliverance_II.jpg",
       "torrent": "magnet:?xt=urn:btih:KCD2_HASH"
     }
   ]
